@@ -7,7 +7,7 @@ assignees: Obliviated
 
 ---
 
-## Bug Explaination
+### Bug Explaination
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -24,9 +24,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-## Software Information
+### Software Information
 Version of MasterDuels: 1.0.0
 Version and brand of server: 1.18 Purpur
 
-## Additional context
+### Additional context
 Off-topic or not, do you want to add anything?
