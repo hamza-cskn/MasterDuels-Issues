@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Describe the bug in a few words
+about: Describe the bug
 title: ''
 labels: bug
 assignees: Obliviated
