@@ -1,6 +1,7 @@
 # Welcome to Issue Tracker of MasterDuels
 Please be sure you've read **Attention** part below before report an issue.
 
+🇹🇷 [Click to see Turkish description](https://github.com/Obliviated/MasterDuels-Issues/blob/main/README_TR.md)
 
 ### What is MasterDuels
 MasterDuels is a Bukkit based Minecraft server plugin. Players can create duel games using MasterDuels to battle. It is highly configurable proffessional duel provider plugin.
