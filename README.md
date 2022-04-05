@@ -15,6 +15,8 @@ MasterDuels is a Bukkit based Minecraft server plugin. Players can create duel g
 
 4) Be sure you've looked up the wiki.
 
+5) We're accepts only Turkish and English explainations on issues.
+
 ## Wiki
 Are you looking for wiki?
 [\[Click to visit wiki page of Master Duels\]](https://mrobliviate.gitbook.io/masterduels-wiki-1/)
