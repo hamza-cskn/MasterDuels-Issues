@@ -1,6 +1,8 @@
 # Welcome to the Issue Tracker of MasterDuels
 Please be sure you've read the **Attention** part below before reporting an issue.
 
+Go [issues page](https://github.com/Obliviated/MasterDuels-Issues/issues) to create new issue report or view an issue report.
+
 🇹🇷 [Click to see Turkish description](https://github.com/Obliviated/MasterDuels-Issues/blob/main/README_TR.md)
 
 ### What is MasterDuels
