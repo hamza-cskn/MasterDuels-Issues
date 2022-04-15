@@ -1,5 +1,7 @@
 # MasterDuels'in sorun izleyicisine hoş geldiniz. 
-Lütfen bir sorunu bildirmeden önce aşağıdaki **Dikkat** bölümünü okuduğunuzdan emin olun. 
+Lütfen bir sorunu bildirmeden önce aşağıdaki **Dikkat** bölümünü okuduğunuzdan emin olun.
+
+Bir sorun raporu oluşturmak veya sorun raporunu incelemek için [issues](https://github.com/Obliviated/MasterDuels-Issues/issues) sayfasına gidin.
 
 ### MasterDuels nedir?
 MasterDuels Bukkit tabanlı bir Minecraft sunucu eklentisidir. Oyuncular, savaşmak için MasterDuels'i kullanarak düello oyunları oluşturabilirler. Kendisi son derece yapılandırılabilir profesyonel bir düello sağlayıcısıdır.
