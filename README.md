@@ -23,3 +23,15 @@ MasterDuels is a Bukkit based Minecraft server plugin. Players can create duel g
 ## Wiki
 Are you looking for wiki?
 [\[Click to visit the wiki page of Master Duels\]](https://mrobliviate.gitbook.io/masterduels-wiki-1/)
+
+## Translator Application
+Is English your second language? We're looking for translators which can translate configuration files of MasterDuels. We gives permission to download MasterDuels to the translators.
+
+### Languages we're interested
+- Japanese
+- Chinese
+- Spanish
+- French
+- Russian
+- German
+- Arabic
